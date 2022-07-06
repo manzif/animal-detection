@@ -2,6 +2,27 @@
 
 ## Objectives
 
+## Getting started
+Create a conda virtual environment
+
+```
+conda create -n manzi
+```
+Activate the environment created
+
+```
+conda activate manzi
+```
+
+install opencv package
+
+```
+conda install -c conda-forge opencv
+```
+
+Note: you can also use pip to install opencg: `pip install opencv`
+
+
 ## TODO
 
 - [x] *July 05, 2022*: Reading and visualizing data (script developed)

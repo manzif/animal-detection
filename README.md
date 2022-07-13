@@ -30,6 +30,6 @@ Note: you can also use pip to install opencg: `pip install opencv`
 - [ ] *July 07, 2022*: Read literature about ML and CV (links to be shared).
 - [ ] *July 08, 2022*: 
 - [ ] *July 09, 2022*: 
-- [ ] *July 10, 2022*: 
+- [ ] *July 13, 2022*: Deeplearning for computer vision course [Deep learning for computer vision: here is the [Link](http://leccap.engin.umich.edu/leccap/site/jhygcph151x25gjj1f0)
 
 
